@@ -15,5 +15,22 @@
             
          }
       ]
+   },
+   {
+      "name":"Poco F1",
+      "brand":"Xiaomi",
+      "codename":"beryllium",
+      "supported_versions":[
+         {
+            "version_code":"ten",
+            "version_name":"10",
+            "maintainer_name":"Venkat Yadlapati",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8507969",
+            "xda_thread":" "
+         },
+         {
+            
+         }
+      ]
    }
 ]
