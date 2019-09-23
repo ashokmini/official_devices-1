@@ -1,0 +1,19 @@
+[
+   {
+      "name":"Redmi Note 7",
+      "brand":"Xiaomi",
+      "codename":"lavender",
+      "supported_versions":[
+         {
+            "version_code":"ten",
+            "version_name":"10",
+            "maintainer_name":"Naveen",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9697924",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-7/development/rom-atom-os-2-0-t3971191"
+         },
+         {
+            
+         }
+      ]
+   }
+]
