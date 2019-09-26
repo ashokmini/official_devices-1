@@ -10,11 +10,8 @@
             "maintainer_name":"Naveen",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9697924",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-7/development/rom-atom-os-2-0-t3971191"
-         },
-         {
-            
          }
-      ]
+      ]  
    },
    {
       "name":"Poco F1",
@@ -27,10 +24,21 @@
             "maintainer_name":"Venkat Yadlapati",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8507969",
             "xda_thread":" "
-         },
+         }
+      ]  
+   },
+   {
+      "name":"Zenfone Max Pro M2",
+      "brand":"asus",
+      "codename":"X01BD",
+      "supported_versions":[
          {
-            
+            "version_code":"ten",
+            "version_name":"10",
+            "maintainer_name":"Ashok_Varma",
+            "maintainer_url":"https://t.me/TheAshokVarma",
+            "xda_thread":" "
          }
       ]
-   }
-]
+   },
+   {
